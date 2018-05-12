@@ -1,0 +1,29 @@
+_repo: Cecilia-Vald-s-o-la-Loma-del--ngel_28281
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Villaverde, Cirilo
+    birthdate: 1812
+    deathdate: 1894
+    gutenberg_agent_id: '33240'
+    url: http://www.gutenberg.org/2009/agents/33240
+    wikipedia:
+    - http://es.wikipedia.org/wiki/Cirilo_Villaverde
+    - http://en.wikipedia.org/wiki/Cirilo_Villaverde
+description: ''
+gutenberg_issued: '2009-03-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28281'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Cuba -- Fiction'
+title: Cecilia Valdés o la Loma del Ángel
+url: http://www.gutenberg.org/ebooks/28281
